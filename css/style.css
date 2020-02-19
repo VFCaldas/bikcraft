@@ -223,6 +223,7 @@ p{
 .footer{
   color: #fff;
   background: #000000;
+  padding: 30px;
 }
 .footer p{
   line-height: 1.4rem;
@@ -253,3 +254,12 @@ p{
   .redes-lista a:hover{
     border-color: #fff;
   }
+.copy{
+  width: 100%;
+  height: 60px;
+  background: #fec63e;
+}
+.copy p{
+  font-size: 1rem;
+  margin-top: 22px;
+}
