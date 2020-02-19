@@ -1,0 +1,26 @@
+/* introdução-interna */
+.interna-sobre{
+  background: url('../img/bg-sobre.jpg') no-repeat center center/cover;
+}
+.missao-sobre{
+ 
+}
+.missao-sobre .subtitulo{
+text-align: left;
+font-size: 1.5rem;
+}
+.missao-sobre .subtitulo::after{
+  margin: 5px 0;
+}
+.missao-sobre p{
+  font-size: 1.1rem;
+  line-height: 25px;
+	margin-bottom: 1em;
+	padding-right: 60px
+}
+.missao-sobre ul li{
+  font-size: 1.1rem;
+  line-height: 30px;
+  font-family:  'IBM Plex Serif', serif;
+  font-weight: bold;
+}
