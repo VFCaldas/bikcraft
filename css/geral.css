@@ -10,6 +10,10 @@ p{
   font-weight: bold;
   line-height: 20px;
 }
+img{
+  display: block;
+  max-width: 100%;
+}
 .header-menu ul li a.menu-ativo{
   color: #fff;
 }
@@ -55,7 +59,7 @@ p{
 /* Common Styles */
 .introducao-interna{
   width: 100%;
-  margin-top: 95px;
+  margin-top: 92px;
   height: 160px;
 }
 .introducao-interna h1{
@@ -112,7 +116,7 @@ p{
 /* Intro Section */
 .introducao{
   text-align: center;
-  margin-top: 95px;
+  margin-top: 92px;
   height: 380px;
   width: 100%;
   background: url(../img/bg.jpg) no-repeat center center/cover;
