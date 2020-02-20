@@ -1,3 +1,6 @@
+
+
+
 if (window.SimpleSlide) {
   new SimpleSlide({
     slide: "quote", // nome do atributo data-slide="principal"
@@ -9,4 +12,6 @@ if (window.SimpleSlide) {
     time: 5000, // tempo de transição dos slides
     nav: true // pausa a transição automática
   });
+
 }
+new SimpleAnime();
